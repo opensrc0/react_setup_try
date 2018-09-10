@@ -1,0 +1,8 @@
+{
+  "name": "Clear Trip",
+  "short_name": "Cleartrip",
+  "description": "Best Booking Service",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+}
